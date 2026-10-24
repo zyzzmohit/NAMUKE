@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" fill="none">
+  <rect width="48" height="48" rx="10" fill="#222B36"/>
+  <!-- Subtle radar pulse ring -->
+  <circle cx="24" cy="24" r="16" stroke="#A7B8A2" stroke-width="1.2" stroke-dasharray="3 3" opacity="0.45"/>
+  <!-- Stylized Cloud Silhouette -->
+  <path d="M15.5 28C13.567 28 12 26.433 12 24.5C12 22.7538 13.2759 21.3061 14.9575 21.0505C15.5126 18.1756 18.026 16 21.05 16C23.0189 16 24.7808 17.0093 25.8239 18.5562C26.5492 18.2016 27.3608 18 28.22 18C30.9814 18 33.22 20.2386 33.22 23C33.22 23.2721 33.1983 23.539 33.1568 23.7994C34.7891 24.4079 35.95 25.969 35.95 27.8C35.95 30.1196 34.0696 32 31.75 32H16C13.7909 32 12 30.2091 12 28" stroke="#F4F1EA" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Golden Lightning / Alert Ray -->
+  <path d="M23 23L19.5 28.5H24L22.5 34L28.5 27.5H24.5L26.5 23H23Z" fill="#E8AD55"/>
+  <!-- Small radar pulse dot -->
+  <circle cx="34" cy="15" r="2.5" fill="#D96C5F"/>
+</svg>
